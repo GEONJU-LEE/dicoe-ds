@@ -1,4 +1,0 @@
-select *
-from xtr.tb_wl_url_access
-where dt = 20190829
-limit 100;
